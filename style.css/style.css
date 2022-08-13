@@ -1,0 +1,189 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background: -webkit-linear-gradient(149deg, #ffc166, #615cee
+    );
+}
+.imgg{
+    width: 20vh;
+    position: relative;
+    z-index: 1;
+    top: 10vh;
+}
+.contianr{
+    position: relative;
+    left: 40vh;
+    width: 80vh;
+    height: 100vh;
+    
+}
+.head{
+    transform: rotate(10deg);
+    height: 80vh;
+    width: 93vh;
+    background-color: rgb(133 208 235);
+    left: 20vh;
+    top: 8vh;
+    border-radius: 40vh 35vh 35vh 0vh;
+    position: absolute;
+}
+.head2{
+    position: relative;
+    top: 21vh;
+    left: 15vh;
+    z-index: -10;
+    border-radius: 124vh 29vh 82vh 75vh;
+    width: 46vh;
+    transform: rotate(99deg); 
+    box-shadow: 0 0.5rem 2rem 0 rgb(31 45 65 / 25%); 
+
+   
+}
+.eye{
+    position: relative;
+    bottom: 62vh;
+    left: 30vh;
+    height: 30vh;
+    width: 30vh;
+    border-radius: 30vh;
+    background-color: white;
+    border: black solid 4px;
+}
+.eye_black{
+    height: 18vh;
+    width: 18vh;
+    background-color: black;
+    border-radius: 20vh;
+    position: relative;
+    top: 45px;
+    left: 35px;
+}
+.eye2{
+    position: relative;
+    bottom: 87vh;
+    left: 65vh;
+}
+.nose{
+    width: 22vh;
+    height: 3vh;
+    border: black solid 4px;
+    position: relative;
+    bottom: 94vh;
+    z-index: 2;
+    left: 45vh;
+    border-radius: 217px 97px 236px 49px;
+    transform: rotate(5deg);
+    background-color: rgb(144, 220, 248);
+}
+.red{
+    position: relative;
+    width: 30px;
+    height: 8px;
+    left: 8vh;
+    border-radius: 0px 0px 12px 9px;
+    background-color: red;
+    border: black solid 3px;
+}
+.line{
+    width: 3px;
+    transform: rotate(15deg);
+    height: 8px;
+    position: relative;
+    background-color: black;
+    top: 10px;
+    left: 10px;
+}
+.maouth{
+    width: 21vh;
+    height: 27vh;
+    background-color: #ee6d79;
+    position: relative;
+    bottom: 97vh;
+    left: 45vh;
+    border: black solid 4px;
+    border-radius: 0vh 1vh 8vh 10vh;
+    transform: rotate(5deg);
+}
+.Tongue{
+    width: 18vh;
+    height: 8vh;
+    background-color: #f6aaa6;
+    position: relative;
+    left: 13px;
+    top: 112px;
+    border-radius: 44vh 27vh 121vh 105vh;
+    transform: rotate(-360deg);
+    border: black solid 4px;
+}
+.brow {
+    left: 38vh;
+    width: 103px;
+    height: 88px;
+    border: solid 16px #000;
+    border-color: #000 transparent transparent transparent;
+    border-radius: 60%/100px 100px 7vh 0;
+    position: relative;
+    bottom: 165vh;
+    transform: rotate(10deg);
+  }
+  .brow2{
+    position: relative;
+    left: 30vh;
+    top: -5vh;
+    transform: rotate(4deg);
+  }
+  .teeth{
+    position: relative;
+    bottom: 19vh;
+    left: 16vh;
+    width: 5px;
+    height: 25px;
+    background-color: white;
+    border: black solid 4px;
+    border-radius: 5px 0px 5px 10px;
+  }
+  .Poetry{
+    width: 5px;
+    height: 35px;
+    background-color: black;
+    position: relative;
+    bottom: 138vh;
+    transform: rotate(44deg);
+    border-radius: 0 0 0 21px;
+  }
+  .Poetry2{
+    position: relative;
+    bottom:137.5vh;
+    left: 14px;
+  }
+  
+  .Poetry3{
+    position: relative;
+    bottom:137.5vh;
+    left: 103.5vh;
+    transform:rotate(299deg);
+  }
+  .Poetry4{
+    position: relative;
+    bottom:137.5vh;
+    left: 99vh;
+    transform:rotate(299deg);
+  }
+  .Poetry5{
+    position: relative;
+    bottom:137.5vh;
+    left: 91vh;
+    transform:rotate(299deg);
+  }
+  .Ear{
+    border: black solid 4px;
+    z-index: -2;
+    border-radius: 21vh 10vh 1vh 0vh;
+    position: relative;
+    bottom: 146vh;
+    transform: rotate(146deg);
+    width: 125px;
+    height: 90px;
+    left: 89vh;
+    background-color: #85d0eb;
+  }
